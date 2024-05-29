@@ -1,0 +1,10 @@
+debug/main.o
+debug/mainwindow.o
+debug/database.o
+debug/categoria.o
+debug/cliente.o
+debug/detalleventa.o
+debug/producto.o
+debug/usuario.o
+debug/venta.o
+debug/moc_mainwindow.o

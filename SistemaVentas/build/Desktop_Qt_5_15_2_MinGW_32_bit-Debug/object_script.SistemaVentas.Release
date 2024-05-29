@@ -1,0 +1,12 @@
+release/main.o
+release/mainwindow.o
+release/database.o
+release/categoria.o
+release/cliente.o
+release/detalleventa.o
+release/producto.o
+release/usuario.o
+release/venta.o
+release/frmlogin.o
+release/moc_mainwindow.o
+release/moc_frmlogin.o
